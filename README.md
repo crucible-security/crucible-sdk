@@ -1,4 +1,8 @@
 # crucible-sdk
+[![PyPI](https://img.shields.io/badge/pypi-coming%20soon-lightgrey?style=flat-square)](https://pypi.org/project/crucible-sdk/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)](https://github.com/crucible-security/crucible-sdk)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE)
+
 
 Official Python SDK -- connect any AI agent to Crucible security infrastructure in 2 lines.
 
